@@ -10,7 +10,7 @@ This project is a very minimal starter that includes 2 sample components, a glob
 
 (If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
 
-## Getting Started
+## Simeus Technology
 
 First, run the development server:
 
@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-### Installation options
+### Installation options 
 
 **Option one:** One-click deploy
 
