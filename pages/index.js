@@ -12,10 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Simeus Technology!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
+        <p className="Helping customers with any technical issues "
+        </Nobody odes it like Technology>
+      </Offer support and technical assistance to customers who are using software, hardware, or other computer systems and need help completing tasks or troubleshooting problems through diagnostic tests and remote access to their computers.>
 
       <Footer />
     </div>
